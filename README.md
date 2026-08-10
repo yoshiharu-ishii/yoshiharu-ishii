@@ -26,8 +26,3 @@
 | [rustboy](https://github.com/yoshiharu-ishii/rustboy) | Rust + WebAssembly のゲームボーイエミュレータ。依存クレートなしの純Rustコア |
 | [realtime_voice](https://github.com/yoshiharu-ishii/realtime_voice) | ブラウザ ⇄ OpenAI Realtime API のリアルタイム音声通話。WebRTC/WebSocket × PTT/ハンズフリー |
 | [shutdown-dialog-generator](https://github.com/yoshiharu-ishii/shutdown-dialog-generator) | サーバー退役ミーム「◯年間お疲れ様でした。」画像ジェネレーター |
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yoshiharu-ishii&show_icons=true&theme=default&hide_rank=true" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiharu-ishii&layout=compact&hide=html" alt="Top Languages" height="150">
-</p>
