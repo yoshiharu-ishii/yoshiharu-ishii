@@ -16,7 +16,7 @@
 
 - **Cloud**: AWS（認定6つ — Solutions Architect Professional / DevOps Engineer Professional ほか）・Terraform
 - **AI**: 生成AI PoC開発（Claude / OpenAI Realtime API / MCPサーバー）
-- **Lang**: Python / Rust / TypeScript / Go / C・C++（通信キャリアIMS開発出身）
+- **Lang**: Python / Rust / TypeScript / C・C++（通信キャリアIMS開発出身）
 
 ## 🧪 最近作っているもの
 
