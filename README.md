@@ -1,9 +1,9 @@
 # Yoshiharu Ishii（石井好晴）
 
-**Freelance Cloud Architect / AI Engineer — AWS × Generative AI, based in Japan.**
+**Freelance AI Full-Stack Engineer — AWS × Generative AI, based in Japan.**
 
-フリーランスのクラウドアーキテクト / AIエンジニアです。AWSと生成AIを軸に、
-「まず動くものを作って確かめる」PoC駆動で開発しています。
+フリーランスのAIフルスタックエンジニアです。AWSと生成AIを軸に、
+フロントからインフラまで「まず動くものを作って確かめる」PoC駆動で開発しています。
 設計判断の理由と、デバッグの謎解きを記録に残すのが流儀です。
 
 ## 🔗 Links
