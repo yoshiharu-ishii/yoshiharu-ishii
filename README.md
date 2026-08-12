@@ -25,7 +25,5 @@
 | [rustx86](https://github.com/yoshiharu-ishii/rustx86) | Rust製x86エミュレータ。8086の実モードから歴史の地層を登り、ブラウザでの32bit Linux起動を目指す |
 | [rustboy](https://github.com/yoshiharu-ishii/rustboy) | Rust + WebAssembly のゲームボーイエミュレータ。依存クレートなしの純Rustコア |
 | [realtime_voice](https://github.com/yoshiharu-ishii/realtime_voice) | ブラウザ ⇄ OpenAI Realtime API のリアルタイム音声通話。WebRTC/WebSocket × PTT/ハンズフリー |
-| [shutdown-dialog-generator](https://github.com/yoshiharu-ishii/shutdown-dialog-generator) | サーバー退役ミーム「◯年間お疲れ様でした。」画像ジェネレーター |
-| [fuurai-dungeon](https://github.com/yoshiharu-ishii/fuurai-dungeon) | ライブラリもCDNも使わない素のHTML/CSS/JSで作った、風来のシレン型ターン制ローグライク |
 | [realtime-voice-serverless](https://github.com/yoshiharu-ishii/realtime-voice-serverless) | 上の音声通話デモを月額ほぼ0円で常設するサーバーレスインフラ(Lambda + CloudFront + Terraform) |
 | [AWSLambdaMicroVMsTest](https://github.com/yoshiharu-ishii/AWSLambdaMicroVMsTest) | AWS Lambda MicroVMs(Firecracker)をGoで試す実験。suspend/resumeを回線交換に見立てた関門局構成 |
