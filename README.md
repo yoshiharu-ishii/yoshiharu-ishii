@@ -23,6 +23,7 @@
 | プロジェクト | 内容 |
 |---|---|
 | [rustx86](https://github.com/yoshiharu-ishii/rustx86) | Rust製x86エミュレータ。8086の実モードから歴史の地層を登り、ブラウザでの32bit Linux起動を目指す |
+| [wsslirp](https://github.com/yoshiharu-ishii/wsslirp) | 上のrustx86(WASM版)をインターネットにつなぐためのSLiRPバックエンド。ゲストが吐くEthernetフレームをWebSocketで受け取り、サーバー側のgVisor netstackでTCP/UDPを終端して本物のソケットで外へ出る(Go) |
 | [rustboy](https://github.com/yoshiharu-ishii/rustboy) | Rust + WebAssembly のゲームボーイエミュレータ。依存クレートなしの純Rustコア |
 | [realtime_voice](https://github.com/yoshiharu-ishii/realtime_voice) | ブラウザ ⇄ OpenAI Realtime API のリアルタイム音声通話。WebRTC/WebSocket × PTT/ハンズフリー |
 | [realtime-voice-serverless](https://github.com/yoshiharu-ishii/realtime-voice-serverless) | 上の音声通話デモを月額ほぼ0円で常設するサーバーレスインフラ(Lambda + CloudFront + Terraform) |
