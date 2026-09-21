@@ -51,7 +51,6 @@
 | [rustboy](https://github.com/yoshiharu-ishii/rustboy) | Rust + WebAssembly のゲームボーイエミュレータ。依存クレートなしの純Rustコア |
 | [realtime_voice](https://github.com/yoshiharu-ishii/realtime_voice) | ブラウザ ⇄ OpenAI Realtime API のリアルタイム音声通話。WebRTC/WebSocket × PTT/ハンズフリー |
 | [realtime-voice-serverless](https://github.com/yoshiharu-ishii/realtime-voice-serverless) | 上の音声通話デモを月額ほぼ0円で常設するサーバーレスインフラ(Lambda + CloudFront + Terraform) |
-| [AWSLambdaMicroVMsTest](https://github.com/yoshiharu-ishii/AWSLambdaMicroVMsTest) | AWS Lambda MicroVMs(Firecracker)をGoで試す実験。suspend/resumeを回線交換に見立てた関門局構成 |
 
 <div align="center">
 
