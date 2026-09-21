@@ -54,7 +54,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://pocraft.net/gh/yoshiharu-ishii.svg" alt="contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pocraft.net/gh/yoshiharu-ishii-dark.svg">
+  <img width="100%" src="https://pocraft.net/gh/yoshiharu-ishii.svg" alt="contribution graph">
+</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" />
 
