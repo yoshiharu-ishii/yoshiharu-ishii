@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yoshiharu-ishii&theme=github-compact&hide_border=true&area=true&color=2563eb&line=2563eb&point=0f172a&bg_color=ffffff" alt="contribution graph" />
+<img width="100%" src="https://pocraft.net/gh/yoshiharu-ishii.svg" alt="contribution graph" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" />
 
