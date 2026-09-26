@@ -46,6 +46,7 @@
 
 | プロジェクト | 内容 |
 |---|---|
+| [ebpf-lens](https://github.com/yoshiharu-ishii/ebpf-lens) | eBPF で Zabbix 風の Linux 監視ダッシュボードを再発明。平均値では見えない待ち時間の分布、プロセス単位の原因と影響、OOM までを、eBPF を知らなくても読める要約で見せる(Go + React) |
 | [rustx86](https://github.com/yoshiharu-ishii/rustx86) | Rust製x86エミュレータ。8086の実モードから歴史の地層を登り、ブラウザでの32bit Linux起動を目指す |
 | [wsslirp](https://github.com/yoshiharu-ishii/wsslirp) | 上のrustx86(WASM版)をインターネットにつなぐためのSLiRPバックエンド。ゲストが吐くEthernetフレームをWebSocketで受け取り、サーバー側のgVisor netstackでTCP/UDPを終端して本物のソケットで外へ出る(Go) |
 | [rustboy](https://github.com/yoshiharu-ishii/rustboy) | Rust + WebAssembly のゲームボーイエミュレータ。依存クレートなしの純Rustコア |
